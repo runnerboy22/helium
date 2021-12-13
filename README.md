@@ -1,5 +1,7 @@
 # helium
 
+Script for splitting HNT between wallets. Feel free to run
+
 Dependencies for multi wallet payments:
 npm i json
 
